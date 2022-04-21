@@ -1,0 +1,2 @@
+# juicecoin
+altcoin
